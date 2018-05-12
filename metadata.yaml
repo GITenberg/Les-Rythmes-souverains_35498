@@ -1,0 +1,35 @@
+_repo: Les-Rythmes-souverains_35498
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Verhaeren, Emile
+    aliases:
+    - Verhaeren, Emile
+    - Verhaeren, Émile
+    birthdate: 1855
+    deathdate: 1916
+    gutenberg_agent_id: '3287'
+    url: http://www.gutenberg.org/2009/agents/3287
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/%C3%89mile_Verhaeren
+    - http://en.wikipedia.org/wiki/Emile_Verhaeren
+description: ''
+gutenberg_bookshelf:
+- FR Poésie
+- FR Littérature francophone
+gutenberg_issued: '2011-03-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35498'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PQ'
+title: 'Les Rythmes souverains: Poèmes'
+url: http://www.gutenberg.org/ebooks/35498
